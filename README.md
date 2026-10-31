@@ -13,7 +13,8 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=InkIdeal&color=blue" />
-<img src="https://skillicons.dev/icons?i=csharp,dotnet,git,github,md,vscode,windows&perline=7" />
+<img src="https://skills.syvixor.com/api/icons?perline=10&i=csharp,dotnet,git,github,vscode,visualstudio,md,windows,bash,powershell,nginx,xaml,mysql,sqlite,firefox,telegram" />
+
 
 <!--
 **InkIdeal/InkIdeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
