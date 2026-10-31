@@ -4,6 +4,7 @@
 
 - I'm a Student
 - My website https://www.yourselves.cn
+- My blog (under construction):https://blog.yourselves.cn
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=InkIdeal&show_icons=true&theme=tokyonight" /> -->
