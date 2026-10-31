@@ -1,20 +1,19 @@
-# 你好，我是 ink_ideal 
+# Hello，I'm ink_ideal 
 
 > :P
 
-- 🔭 正在做：C# / WPF 学习中
-- 🌱 正在学：C# 基础语法
-- 📫 联系方式：xxx
+- I'm a C# learner
+- My website https://www.yourselves.cn
 
-## 📊 统计卡片
-<img src="https://github-readme-stats.vercel.app/api?username=ink_ideal&show_icons=true&theme=tokyonight" />
 
-## 🔥 连续提交
-<img src="https://streak-stats.demolab.com?user=ink_ideal&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=InkIdeal&show_icons=true&theme=tokyonight" />
 
-## 👀 访问计数
-<img src="https://komarev.com/ghpvc/?username=ink_ideal&color=blue" />
 
+<img src="https://streak-stats.demolab.com?user=InkIdeall&theme=tokyonight" />
+
+
+<img src="https://komarev.com/ghpvc/?username=InkIdeal&color=blue" />
+<img src="https://skillicons.dev/icons?i=csharp,dotnet,git,github,md,vscode,windows&perline=7" />
 
 <!--
 **InkIdeal/InkIdeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
