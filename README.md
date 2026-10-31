@@ -2,7 +2,7 @@
 
 > :P
 
-- I'm a C# learner
+- I'm a Student
 - My website https://www.yourselves.cn
 
 
@@ -10,10 +10,8 @@
 
 
 <img src="https://streak-stats.demolab.com?user=InkIdeal&theme=tokyonight" />
-
-
 <img src="https://komarev.com/ghpvc/?username=InkIdeal&color=blue" />
-<img src="https://skills.syvixor.com/api/icons?perline=15&i=java,kotlin,rust,vuejs,nuxtjs,javascript,typescript,html,css,csharp,python,fabricmc,forgemc,neoforge,papermc,velocity,markdown,sql,toml,yaml,xaml,powershell,bash,spring,springboot,jakartaee,nodejs,touri,pinia,tailwindcss,chromium,mysql,sqlite,mermaid,gradle,apachemaven,npm,chocolatey,docker,adobeillustrator,adobephotoshop,adobepremierepro,intellijidea,webstorm,datagrip,rider,pycharm,fleet,visualstudio,visualstudiocode,eclipseide,git,gitbash,github,githubpages,githubactions,postman,prettier,cloudflare,figma,firefox,microsoftoffice,microsoftword,microsoftpowerpoint,microsoftexcel,blender,gimp,obs,vmix,vmware,canva,telegram,discord,windows" />
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=vuejs,html,css,csharp,cpp,python,fabricmc,forgemc,neoforge,papermc,velocity,markdown,sql,toml,yaml,xaml,powershell,bash,spring,springboot,jakartaee,nodejs,touri,pinia,tailwindcss,chromium,mysql,sqlite,mermaid,gradle,apachemaven,npm,chocolatey,docker,adobeillustrator,adobephotoshop,adobepremierepro,intellijidea,webstorm,datagrip,rider,pycharm,fleet,visualstudio,visualstudiocode,eclipseide,git,gitbash,github,githubpages,githubactions,postman,prettier,cloudflare,figma,firefox,microsoftoffice,microsoftword,microsoftpowerpoint,microsoftexcel,blender,gimp,obs,vmix,vmware,canva,telegram,discord,windows" />
 
 
 <!--
