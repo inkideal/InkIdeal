@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ink_ideal&show_icons=true&theme=tokyonight" />
 
 
-<img src="https://streak-stats.demolab.com?user=InkIdeall&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=InkIdeal&theme=tokyonight" />
 
 
 <img src="https://komarev.com/ghpvc/?username=InkIdeal&color=blue" />
