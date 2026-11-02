@@ -4,8 +4,8 @@
 
 - I'm a Student
 - My blog (under construction):https://blog.yourselves.cn
-- My other emall adress qq486258@outlook.com
-- My domain emall adress(may not receive) ideal@yourselves.cn
+- My other emall address qq486258@outlook.com
+- My domain emall address(may not receive) ideal@yourselves.cn
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=InkIdeal&show_icons=true&theme=tokyonight" /> -->
