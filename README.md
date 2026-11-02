@@ -3,7 +3,6 @@
 > :P I'm 15,a student from Chengdu
 
 - I'm a Student
-- My website https://www.yourselves.cn
 - My blog (under construction):https://blog.yourselves.cn
 - My other emall adress qq486258@outlook.com
 - My domain emall adress(may not receive) ideal@yourselves.cn
